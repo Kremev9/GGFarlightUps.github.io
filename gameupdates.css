@@ -1,0 +1,111 @@
+
+body  {
+
+    background-image: url("bgpic.jpg");
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;   
+    font-family: Arial, sans-serif;
+    transition: 0.9s;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        background-color:transparent;
+        overflow: hidden;
+        transition: 0.9s;
+    }
+    .menu {
+        background-color: transparent;
+        padding: 2px;
+        margin-left: 150px;
+    }
+    li {
+        float: left;
+    }
+    
+    li a {
+        display: block;
+        color: rgb(252, 252, 252);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }   
+    
+    li a:hover {
+        background-color: #2471a3;
+    }
+    .updates{
+    text-align: center;
+    color: rgb(252, 252, 252);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    }
+    
+/*updates*/
+    .text1{
+    color: rgb(252, 252, 252);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+    }
+    .updates{
+        margin-left: 100px;
+        margin-right: 9900px;
+        width: 1300px;
+        height: 3785px;
+        box-shadow: -1px 0 50px rgb(9, 9, 9);
+        align-items: center;
+        text-align: center;
+        color: white;
+        font-size: 12px;
+        background-color:rgb(119, 179, 217, 0.6);
+        transition: 0.9s;
+       
+    }
+    .search-box{
+        width: 30vh;
+        height: 40px;
+        background: #fff;
+        margin: 5px auto 0;
+        border-radius: 20px;
+    
+    }
+    .row{
+        display: flex;
+        align-items: center;
+        padding: 10px 15px;
+        height: 20px;
+    }
+    input{
+        flex: 1;
+        height: 50px;
+        background: transparent;
+        border: 0;
+        outline: 0;
+        font-size: 18px;
+    }
+    button{ 
+        background: transparent; 
+        border: 0; 
+        outline: 0; 
+    }
+    button.fia-solid{ 
+        width: 25px; 
+        color: #555; 
+        font-size: 22px; 
+        cursor: pointer;
+    }
+    .result ul{
+        border-top: 1px solid #999;
+        padding: 15px 10px;
+    }
+    .result ul li{
+       list-style: none;
+       border-radius: 3px;
+       padding: 15px 10px;
+       cursor: pointer;
+    }

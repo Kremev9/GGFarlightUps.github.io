@@ -1,0 +1,437 @@
+
+body  {
+    background-image: url("/bgpic.jpg");
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;   
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:transparent;
+    overflow: hidden;
+}
+.menu {
+    background-image: url('/container.jpg');
+    padding: 2px;
+	margin-left: 158px;
+    height:55px;
+}
+.black-blox{
+    width: 165vh;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: -374px;
+    background-position: center;
+    background-image: url('/container.jpg');
+    background-attachment: scroll;
+}
+.black-box{
+    width: 165vh;
+    height: 100vh;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: -374px;
+    background-position: center;
+    background-image: url('/container.jpg');
+    background-attachment: scroll;
+}
+.www{
+    width: 150vh;
+    height: 100vh;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: -600px;
+    background-position: center;
+    background-image: url('/container.jpg');
+    background-attachment: scroll;
+}
+.black-boxx, .black-boxxx{
+    width: 150vh;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: -600px;
+    background-position: center;
+    background-image: url('/container.jpg');
+    background-attachment: scroll;
+}
+.black-boxxs{
+    width: 150vh;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: -290px;
+    background-position: center;
+    background-image: url('/container.jpg');
+    background-attachment: scroll;
+}
+.ww{
+    width: 150vh;
+    height: 100vh;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: -290px;
+    background-position: center;
+    background-image: url('/container.jpg');
+    background-attachment: scroll;
+}
+.blackbox
+{
+    width: 125vh;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    background-position: center;
+    background-image: url('/container.jpg');
+}
+
+.welcome{
+    color: white;
+    text-align: center;
+}
+.section1{
+    color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+h2{
+    color: white;
+}
+h3, h4, h5, h6{
+    color: aqua;
+}
+p {
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Beau, .Lucinda, .Maggie, .Captain, .Ducksyde, .Ember, .Watchman, .MKR, .Phantom, .Yong, .Ceanna, .Momoi, .Sunil, .Syfer{
+    border: 1px solid white;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    height: 20vh;
+}
+body, html {   
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: rgb(252, 252, 252);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}   
+
+li a:hover {
+    background-color: #2471a3;
+}
+.blox{
+    text-align: center;
+    width: 120vh;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    background-position: center;
+    background-image: url('/container.jpg');    
+    color: white;
+}
+.box{
+    margin-top: 0;
+    margin-left: -60px;
+    width: 500px;
+    height: 300px;
+    box-shadow: -1px 0 50px white;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 12px;    
+    border-radius: 10%;
+}
+.cover{
+	width: 1000px;
+	height: 400px;
+	margin-top: auto;
+	grid-template-columns: repeat(3, 1fr);
+	display: flex;
+    margin-left: 35vh;
+}
+.box:hover{
+	background-color: #2471a3;
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+.text {
+    color: white;
+    position: absolute;
+    top: 40vh;
+    left: 52%;
+}
+.text1{
+    color: white;
+    position: absolute;
+    top: 60vh;
+    left: 57%;
+}
+
+.info{
+    margin-left: 15px;
+    border: 1px solid rgb(252, 214, 103);
+}
+.bio{
+    margin-left: 15px;
+    border: 1px solid rgb(252, 214, 103);
+}
+video {
+    max-width: 50%;
+    margin-top: 5%;
+    height: auto;
+    margin-left: 25%;
+}
+.skill{
+    margin-left: 50%;
+    margin-top: -39%;
+}
+.Weapons{
+    border: 1px solid white;
+    object-fit: cover;
+    width: inherit;
+    width: 122px;
+    height: 120px;
+    z-index: 20;
+    border-radius: 8px;
+}
+.poster{
+    height: 105px;
+    width: 187px;
+}
+.posterpos{
+    margin-left: 27vh;
+}
+.Vehicles{
+    border: 1px solid white;
+    object-fit: cover;
+    width: inherit;
+    width: 140px;
+    height: 120px;
+    z-index: 20;
+    border-radius: 8px;
+}
+.search-boxx{
+    width: 30vh;
+    height: 40px;
+    background: #fff;
+    margin: 5px auto 0;
+    margin-top: -186vh;
+    margin-left: 90vh;
+}
+.search-box {
+    width: 30vh;
+    height: 40px;
+    background: #fff;
+    margin: 5px auto 0;
+    margin-top: -600px;
+    margin-left: -85vh;
+}
+.search-v{
+    width: 30vh;
+    height: 40px;
+    background: #fff;
+    margin: 5px auto 0;
+    margin-top: -113vh;
+    margin-left: 90vh;
+}
+.search-boxxx {
+    width: 30vh;
+    height: 40px;
+    background: #fff;
+    margin: 5px auto 0;
+    margin-top: -170.5vh;
+    margin-left: 90vh;
+}
+.row{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    height: 20px;
+}
+input{
+    flex: 1;
+    height: 50px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #333;
+}
+button{
+    background: transparent;
+    border: 0;
+    outline: 0;
+}
+.button .fa-solid{
+    width: 25px;
+    color: #555;
+    font-size: 22px;
+    cursor: pointer;
+}
+::placeholder{
+    color: #555;
+}
+.result-box ul{
+    border-top: 1px solid #999;
+    padding: 15px 10px;
+    background-color: white;
+}
+.result-box ul li{
+    list-style: none;
+    border-radius: 3px;
+    padding: 15px 10px;
+    cursor: pointer;
+    background-color: white;
+}
+.result-box ul li:hover{
+    background: #e9f3ff;
+}
+.result-box{
+    max-height: 300px;
+    overflow-y: scroll;
+}
+.logoo{
+    margin-top: 100px;
+
+}
+.navbar{
+    margin-top: 20px;
+    width: 140px;
+    padding: 10px;
+    font-size: x-large;
+    color: #fff;
+    box-shadow: 0 0 10px #000;
+}
+.navbar1{
+    margin-top: 20px;
+    width: 170px;
+    padding: 10px;
+    font-size: x-large;
+    color: #fff;
+    box-shadow: 0 0 10px #000;
+} 
+.navbar2{
+    margin-top: 20px;
+    width: 150px;
+    padding: 10px;
+    font-size: x-large;
+    color: #fff;
+    box-shadow: 0 0 10px #000;
+} 
+
+
+
+
+
+
+
+.dropdown-search {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.dropdown-content-search {
+    display: none;
+    position: absolute;
+    background-color: #15141C;
+    width: 180px;
+    z-index: 1;
+    top: 0;
+    right: 0; /* Position relative to the parent element */
+    transform: translateX(calc(100% + 1px)); /* Adjust distance from the emoji */
+    padding: 8px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    min-width: 200px;
+    z-index: 1;
+    text-align: center; /* Align the content to the center */
+}
+
+.dropdown-content-search input {
+    width: calc(100% - 16px);
+    padding: 8px;
+    margin-bottom: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.dropdown-content-search a {
+    color: #f6e0a9;
+    padding: 8px 8px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-search:hover .dropdown-content-search {
+    display: block;
+    text-transform: uppercase;
+    background-color: #09090c;
+}
+
+.dropbtn {
+    font-size: 24px; 
+    background-color: #15141C;
+    color: #f4dea9;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+}
+
+/* Updated styles for search input */
+.searchInput {
+    position: absolute;
+    right: -250px; /* Adjust this value as needed */
+    top: 0;
+    display: none;
+}
+.container {
+    overflow: hidden;
+  }
+  
+  .filterDiv {
+    float: left;
+    background-color: #DF8429;
+    color: #ffffff;
+    width: 200px;
+    min-width: 200px;
+    max-width: 500px;
+    line-height: 20px;
+    padding: 15px;
+    text-align: center;
+    margin: 2px;
+    display: none; /* Hidden by default */
+  }
